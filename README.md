@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) - Terrorism Dataset
+# Exploratory Data Analysis (EDA) - for Terrorism Dataset
 
 This project performs Exploratory Data Analysis (EDA) on the terrorism dataset to extract meaningful insights and patterns. The analysis aims to uncover trends, identify high-risk regions, understand attack characteristics, and potentially reveal factors that contribute to terrorist activities.
 
