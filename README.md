@@ -20,9 +20,8 @@ Follow the steps to perform EDA
 
 1. Clone this repository to your local machine:
 
-```python
-# Clone the GitHub repository
-!git clone https://github.com/thillairam007/CVIP-datascience
+```bash
+git clone https://github.com/thillairam007/CVIP-datascience
 ```
 2. Install the required Python libraries (check requirement.txt)
 3. Run the Jupyter Notebook **terroristattack.ipynb**
